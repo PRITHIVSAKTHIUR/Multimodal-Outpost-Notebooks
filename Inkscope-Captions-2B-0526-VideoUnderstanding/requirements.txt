@@ -1,0 +1,17 @@
+gradio
+spaces
+transformers
+accelerate
+numpy
+requests
+torch
+torchvision
+qwen-vl-utils
+av
+ipython
+reportlab
+fpdf
+python-docx
+pillow
+huggingface_hub
+hf_xet
