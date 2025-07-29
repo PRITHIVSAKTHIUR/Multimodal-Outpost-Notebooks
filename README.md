@@ -1,6 +1,6 @@
 # **Multimodal-Outpost-Notebooks**
 
-> **Multimodal-Outpost** is a collection of Colab notebooks designed for image inference and multimodal vision-language model (VLM) experimentation. It provides tools for OCR, image captioning, and generating DOCX or PDF documents containing both images and extracted text.
+> **Multimodal-Outpost** is a collection of Colab notebooks designed for image inference and multimodal vision-language model (VLM) experimentation. It provides tools for OCR, image captioning, video understanding and generating DOCX or PDF documents containing both images and extracted text.
 
 ## Notebooks
 
@@ -10,7 +10,8 @@ This repository includes notebooks for:
 * **Monkey OCR**
 * **OCRFlux 3B**
 * **Typhoon OCR**
-
+* **And more...**
+  
 ## Features
 
 * Extracts text from images using various OCR models
@@ -24,7 +25,8 @@ This repository includes notebooks for:
 * **Monkey OCR**
 * **OCRFlux 3B**
 * **Typhoon OCR 3B**
-
+* **And more...**
+  
 ---
 
 ## Other Images
