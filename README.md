@@ -2,7 +2,11 @@
 
 > **Multimodal-Outpost** is a collection of Colab notebooks designed for image inference and multimodal vision-language model (VLM) experimentation. It provides tools for OCR, image captioning, video understanding and generating DOCX or PDF documents containing both images and extracted text.
 
+---
+
 ![222](https://github.com/user-attachments/assets/eae0f85d-2963-4edf-96e9-caedfe048c4f)
+
+---
 
 ## Notebooks
 
