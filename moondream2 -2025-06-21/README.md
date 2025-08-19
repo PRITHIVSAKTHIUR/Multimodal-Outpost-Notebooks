@@ -1,4 +1,4 @@
-## **Moondream2  Revesion: 2025-06-21**
+## **Moondream2  Revision: 2025-06-21**
 
 ### **Demo Inference**
 
