@@ -47,7 +47,7 @@ This repository contains a curated collection of notebooks for implementing stat
 * Embeds images and extracted text into DOCX or PDF formats
 * Designed for quick deployment via Google Colab
 
-## Inference Images
+## Inference Image (Demo) 
 
 <img width="1913" height="1534" alt="Screenshot 2025-08-22 at 18-30-51 Gradio" src="https://github.com/user-attachments/assets/4e46a18b-fe7d-40fb-aaaa-252bf0805c20" />
 
