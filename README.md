@@ -47,24 +47,9 @@ This repository contains a curated collection of notebooks for implementing stat
 * Embeds images and extracted text into DOCX or PDF formats
 * Designed for quick deployment via Google Colab
 
----
-
 ## Inference Images
 
-<table border="1" style="width:100%; table-layout:fixed;">
-  <tr>
-    <td style="text-align:center;">
-      <img src="https://github.com/user-attachments/assets/88429981-84d0-40b2-8d99-546c439d36f3" alt="OCR" width="100%">
-      <p>OCR</p>
-    </td>
-    <td style="text-align:center;">
-      <img src="https://github.com/user-attachments/assets/bb6bfbb5-3313-47c5-988e-47083531e398" alt="Caption" width="100%">
-      <p>Caption</p>
-    </td>
-  </tr>
-</table>
-
----
+<img width="1913" height="1534" alt="Screenshot 2025-08-22 at 18-30-51 Gradio" src="https://github.com/user-attachments/assets/4e46a18b-fe7d-40fb-aaaa-252bf0805c20" />
 
 ## Dependencies
 
