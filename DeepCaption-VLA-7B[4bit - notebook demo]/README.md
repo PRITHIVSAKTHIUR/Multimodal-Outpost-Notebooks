@@ -1,7 +1,7 @@
 
 | Image |
 | --- |
-| ![53dbea03561c6ed58467b371fadad577](https://github.com/user-attachments/assets/18a99bb6-ba13-4522-85d0-420bdddb5555) |
+| <div style="width:256px;height:256px;"><img src="https://github.com/user-attachments/assets/18a99bb6-ba13-4522-85d0-420bdddb5555" alt="Breaking Bad poster" style="width:100%;height:100%;object-fit:cover;"></div> |
 
 
 | Property                     | Qwen2.5-VL-7B-Abliterated-Caption-it                                          | DeepCaption-VLA-7B                                                        | Better Choice                                                  |
