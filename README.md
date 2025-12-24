@@ -1,3 +1,6 @@
+> [!note]
+All notebooks run on the Gradio ≤ 5.47.1 SDK. If you encounter any component errors, please ensure your environment has Gradio v4.57.1 installed.
+ 
 # **Multimodal-Outpost-Notebooks**
 
 > **Multimodal-Outpost** is a collection of Colab notebooks designed for image inference and multimodal vision-language model (VLM) experimentation. It provides tools for OCR, image captioning, video understanding and generating DOCX or PDF documents containing both images and extracted text.
